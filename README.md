@@ -1,9 +1,12 @@
 # Fork Note
 This is a fork of CreeperConfetti which makes personal changes to the plugin.
+
 1. Code improvements.
 2. Affects all explosions.
-3. Colours changed.
+3. Colours of the confetti changed.
 4. Built with Maven.
+
+Head to the **Releases** section to download it.
 
 # Original Description
 Now, onto the original description!
