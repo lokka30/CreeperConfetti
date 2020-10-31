@@ -1,4 +1,14 @@
-# CreeperConfetti
+# Fork Note
+This is a fork of CreeperConfetti which makes personal changes to the plugin.
+1. Code improvements.
+2. Affects all explosions.
+3. Colours changed.
+4. Built with Maven.
+
+# Original Description
+Now, onto the original description!
+
+## CreeperConfetti
 Creeper Confetti is a plugin for Minecraft servers that replaces all creeper explosions with nice-looking confetti ones.
 https://www.spigotmc.org/resources/creeperconfetti.85204/
 
@@ -10,8 +20,8 @@ This plugin is really small and easy to make, but I think it suites quite well t
 
 One of the upcoming feature will be configurable creeper damage(none, or percentage so for example 50% of normal explosion damage)
 
-# Installation
+## Installation
 To install the plugin you need spigot server. No other plugins required. Just drop the file CreeperConfetti.jar to plugins folder. Restart the server and enjoy!
 
-# Why if I can do just "/gamerule mobGriefing false"?
+## Why if I can do just "/gamerule mobGriefing false"?
 Command also disables other things like villager food farms so it's just safer for server. Also really lightweight.
