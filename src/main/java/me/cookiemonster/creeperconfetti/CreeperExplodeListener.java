@@ -1,4 +1,4 @@
-package me.cookiemonster.creeperconfetti.events;
+package me.cookiemonster.creeperconfetti;
 
 import org.bukkit.*;
 import org.bukkit.entity.EntityType;
